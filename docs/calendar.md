@@ -6,22 +6,27 @@
 
 | Project       | Oct  | Nov  | Dec  |
 | :-----        | :--- | :--- | :--- |
-| Workplan      | 21 Mid year review             | 1,6 LOD Mid Year<br>xx update reps     |                     |
-| - Lauren        |                                | 18 LOD Workshop                        |                     |
-| KF Dashboard  | 23 MD                          |                                        |                     |
-| Social Comm   |                                | 21 YEP                                 |                     |
-| IHIS          | 14 CSR                         |                                        |                     |
-| Yishun Health | 23 Yeuk Fan                    |                                        |                     |
-| Learn/Huddle  |                                |                                        | 2 HLC debrief       |
-| On Course     | 17 AW                          | 11-13 SC                               |                     |
-| On Leave      | 14-21 JT<br>16 KM<br>18-28 SC | 4 AW<br>7-8 BC<br>25 MK<br>27-30 KM | 1-13 KM<br>3-11 AW<br>4-17 JC |
+| Health        | Screening                      |                                        |                               |
+| IHIS          | ~~14 CSR~~                     |                                        |                               |
+| KF Dashboard  | 23 MD                          | 4 Workshop                             |                               | 
+| Social Comm   |                                | 22 YEP                                 |                               |
+| Workplan      | 21 Mid year review             | 1,6 Mid Year<br>xx update PC           |                               |
+| - Lauren      |                                | 18 LOD Workshop                        |                               |
+| YHS           | 23 Yeuk Fan                    |                                        |                               |
+| Learn/Huddle  | 25 Learn                       | 12 Huddle                              | 2 Reflect<br>12 Huddle        |
+| On Course     | 17 AW, 29-30 SC, IA            | 8 MK,KJ<br>11-13 SC,JC,MK<br>14 KJ     | 9-10 ST                       |
+| On Leave      | 14-21 JT<br>16 KM<br>18-28 SC  | 4 AW<br>7-8 BC<br>25 MK<br>27-30 KM    | 1-13 KM<br>3-11 AW<br>4-17 JC |
 
 # Q1 2020
 
-| Project  |  Jan       |  Feb  |  Mar  |
-| :-----   | :---:      | :---: | :---: |
-| xxx      | xx<br>xxx  | xxx   |       |
-| On Leave |            |       |       |
+| Project      |  Jan              |  Feb  |  Mar  |
+| :-----       | :---:             | :---: | :---: |
+| IMH          | 10 IMH<br>17 IMH  |       |       |
+| Radio        | 11 SGH<br>        |       |       |
+| GAH          | xx close          |       |       |
+| Learn/Huddle |                   |       |       |
+| On Course    |                   |       |       |
+| On Leave     |                   |       |       |
 
 # Q2 2020
 
