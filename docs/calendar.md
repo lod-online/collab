@@ -21,10 +21,10 @@
 
 | Project      |  Jan              |  Feb  |  Mar  |
 | :-----       | :---:             | :---: | :---: |
+| GAH          | xx close          |       |       |
 | Health       | Survey            |       |       |
 | IMH          | 10 IMH<br>17 IMH  |       |       |
 | Radio        | 11 SGH<br>        |       |       |
-| GAH          | xx close          |       |       |
 | Workplan     |                   |       |       |
 | Learn/Huddle |                   |       |       |
 | On Course    |                   |       |       |
@@ -32,21 +32,27 @@
 
 # Q2 2020
 
-| Project  |  Apr       |  May  |  Jun  |
-| :-----   | :---:      | :---: | :---: |
-| xxx      | xx<br>xxx  | xxx   |       | 
-| On Leave |            |       |       |
+| Project      |  Apr              |  May  |  Jun  |
+| :-----       | :---:             | :---: | :---: |
+| xxx          | xx<br>xxx         | xxx   |       | 
+| Learn/Huddle |                   |       |       |
+| On Course    |                   |       |       |
+| On Leave     |                   |       |       |
 
 # Q3 2020
 
-| Project  |  Jul       |  Aug  |  Sep  |
-| :-----   | :---:      | :---: | :---: |
-| xxx      | xx<br>xxx  | xxx   |       | 
-| On Leave |            |       |       |
+| Project      |  Jul              |  Aug  |  Sep  |
+| :-----       | :---:             | :---: | :---: |
+| xxx          | xx<br>xxx         | xxx   |       | 
+| Learn/Huddle |                   |       |       |
+| On Course    |                   |       |       |
+| On Leave     |                   |       |       |
 
 # Q4 2020
 
-| Project  |  Oct       |  Nov  |  Dec  |
-| :-----   | :---:      | :---: | :---: |
-| xxx      | xx<br>xxx  | xxx   |       |    
-| On Leave |            |       |       |
+| Project      |  Oct              |  Nov  |  Dec  |
+| :-----       | :---:             | :---: | :---: |
+| xxx          | xx<br>xxx         | xxx   |       | 
+| Learn/Huddle |                   |       |       |
+| On Course    |                   |       |       |
+| On Leave     |                   |       |       |
