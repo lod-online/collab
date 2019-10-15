@@ -32,4 +32,4 @@ Insert URLs or Images and link to source:
 [Link](url) and ![Image](src)
 ```
 
-For more stuff, visit [this](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet),[this](https://guides.github.com/features/mastering-markdown/) or google **'markdown'**.
+For more stuff, visit [this](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet), [this](https://guides.github.com/features/mastering-markdown/) or google **'markdown'**.
