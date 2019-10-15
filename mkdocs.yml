@@ -1,0 +1,6 @@
+nav:
+   - Home:       'index.md'
+   - Calendar:   'calendar.md'
+   - Projects:   'projects.md'
+   - Repository: 'repository.md'
+   - Markdown:   'markdown.md'
