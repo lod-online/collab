@@ -4,9 +4,9 @@
 
 Allocation - Leads(L), Members(M) and Resource Persons(R)
 
-* L - the one in charge  (gets "hung" if things go wrong)
-* M - the one in cahoots (may "hang" together with the Lead)
-* R - gets involved as and when required
+* L - the one in charge  (gets "hanged" if things go wrong)
+* M - the one in cahoots (may "hang" with the Lead)
+* R - involved when required
 
 # Projects
 
