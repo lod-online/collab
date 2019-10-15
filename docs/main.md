@@ -10,10 +10,9 @@ This site is for LOD collaboration and information sharing.
 * [Knowledge Repository (Open Source)](repository.md)
 
 **Instructionals**
-* Logging into github
-* Accessing LOD pages
+* [Logging into github](github#logging-into-github)
+* [Accessing LOD pages](github#accessing-the-files)
 * [Editing the pages](markdown.md)
-* Request for update
 
 ## What's NOT on this site
 * Project details and updates
@@ -21,7 +20,7 @@ This site is for LOD collaboration and information sharing.
 
 ## To Do List
 * [ ] Get feedback on site
-* [ ] Teach how to log into github to edit pages
-* [ ] Enabling page editing
+* [x] Teach how to log into github to edit pages
+* [x] Enabling page editing
 * [x] Create simple password protection <a href="https://github.com/matteobrusa/Password-protection-for-static-pages" target="new">https://github.com/matteobrusa/Password-protection-for-static-pages</a>
 * [x] Create how-to edit markdown page <a href ="https://nicolas-van.github.io/easy-markdown-to-github-pages/" target="new">https://nicolas-van.github.io/easy-markdown-to-github-pages/</a>
