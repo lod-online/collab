@@ -6,12 +6,13 @@
 ## Accessing the Files
 
 3. Go to files to be edited:
-   * [Calendar](https://github.com/lod-online/collab/blob/master/docs/calendar.md)
-   * [Repository](https://github.com/lod-online/collab/blob/master/docs/repository.md)
+   * <a href="https://github.com/lod-online/collab/edit/master/docs/calendar.md" target="new">Calendar</a>
+   * <a href="https://github.com/lod-online/collab/edit/master/docs/repository.md" target="new">Repository</a>
    
-4. Click on the pencil looking icon to **edit** the file
-5. Edit as desired and click **Preview** (with the eye-con) to view changes
-6. Key in a brief description of the changes (with your initials preferably) in the "Commit Changes" section on changes done
-7. Click on the **Commit Changes** button to save the changes
+4. Edit as desired and click **Preview changes** (with the eye-con) to view changes
+5. Scroll down to the "Commit Changes" section
+6. Key in a brief description of the changes (optional but useful)
+7. Click on the "Create a new branch and start a pull request" - this will create a new file (use your initials) that will be merged
+8. Click on the **Commit Changes** button to save the changes
 
-If you accidentally deleted the file or edited the file incorrectly, please check with AW to roll back changes (hopefully).
+If you accidentally did something that needs help, please check with AW to roll back changes (hopefully).
