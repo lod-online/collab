@@ -3,4 +3,5 @@ nav:
    - Calendar:   'calendar.md'
    - Projects:   'projects.md'
    - Repository: 'repository.md'
+   - Github:     'github.md'
    - Markdown:   'markdown.md'
