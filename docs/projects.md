@@ -13,9 +13,10 @@ Allocation - Leads(L), Members(M) and Resource Persons(R)
 | Projects                    | AW    | SC    | JC    | ST    | KJ    | MK    | JT    | BC    | IA    | KM    |
 | :---:                       | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | Dashboard                   | M     | L     | R     |       |       |       |       |       |       |       |
-| Social Comm                 | R     |       | R     |       |       | M     | R     |       | L     |       |
+| SC (Oversight)              | R     |       | R     |       |       | L     | R     |       | M     |       |
+| SC (Ops)                    | R     |       | R     |       |       | M     | R     |       | L     |       |
 | Strategic Thrusts           | L1    | M3    | M1    | L3    | L2    | M3    | M3    | M1    | M2    | M2    |
-| Workplan /<br>Planning Comm | R     | L     |       |       |       | M     |       |       |       |       |
+| Workplan /<br>PC            | R     | L     |       |       |       | M     |       |       |       |       |
 
 # BAU Work
 
