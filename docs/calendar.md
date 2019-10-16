@@ -5,12 +5,12 @@
 # Q4 2019
 
 | Project       |  Oct                           |  Nov                                             |  Dec                          |
-| :-----        | :---:                          | :---:                                            | :---:                         |
+| :-----        | :---                           | :---                                             | :---                          |
 | Health        | xx Screening                   |                                                  |                               |
 | IHIS          | ~~14 CSR~~                     |                                                  |                               |
 | Milestone     |                                | 4 Present<br>xx EM1<br>xx EM2                    |                               |
 | SC            |                                | 22 YEP                                           |                               |
-| Workplan      |                                | 1 Pre<br>4 SM Mid-Yr<br>6 Mid-Yr<br>xx update PC |                               |
+| Workplan      | xx Mid-Year                    | 1 Pre-retreat<br>6 Mid-Yr<br>xx update PC        |                               |
 | - Dashboard   | 23 MD                          | 4 Workshop                                       |                               | 
 | - Lauren      |                                | 18 LOD Workshop                                  |                               |
 | YHS           | 23 YFan                        |                                                  |                               |
@@ -22,9 +22,9 @@
 # Q1 2020
 
 | Project      |  Jan              |  Feb         |  Mar                |
-| :-----       | :---:             | :---:        | :---:               |
+| :-----       | :---              | :---         | :---                |
 | GAH          | xx close          |              |                     |
-| Health       | Survey            |              |                     |
+| Health       | xx Survey         |              |                     |
 | IMH          | 10 IMH<br>17 IMH  |              |                     |
 | Radio        | 11 SGH<br>        |              |                     |
 | Workplan     |                   | 10 MD        | 10 PS<br>16 Bd      |
@@ -37,7 +37,7 @@
 # Q2 2020
 
 | Project      |  Apr              |  May  |  Jun                       |
-| :-----       | :---:             | :---: | :---:                      |
+| :-----       | :---              | :---  | :---                       |
 | xxx          | xx<br>xxx         | xxx   |                            | 
 | HR Cycle     |                   |       | Mid-Yr Appraisal           |
 | Huddle/Learn |                   |       |                            |
@@ -47,7 +47,7 @@
 # Q3 2020
 
 | Project      |  Jul              |  Aug  |  Sep         |
-| :-----       | :---:             | :---: | :---:        |
+| :-----       | :---              | :---  | :---         |
 | xxx          | xx<br>xxx         | xxx   |              | 
 | HR Cycle     |                   |       |              |
 | Huddle/Learn |                   |       |              |
@@ -57,7 +57,7 @@
 # Q4 2020
 
 | Project      |  Oct               |  Nov      |  Dec  |
-| :-----       | :---:              | :---:     | :---: |
+| :-----       | :---               | :---      | :---  |
 | xxx          | xx<br>xxx          | xxx       |       | 
 | HR Cycle     | Year-End Appraisal |           |       |
 | Huddle/Learn |                    |           |       |
