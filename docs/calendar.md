@@ -4,33 +4,35 @@
 
 # Q4 2019
 
-| Project       |  Oct                           |  Nov                                          |  Dec                          |
-| :-----        | :---:                          | :---:                                         | :---:                         |
-| Health        | Screening                      |                                               |                               |
-| IHIS          | ~~14 CSR~~                     |                                               |                               |
-| KF Dashboard  | 23 MD                          | 4 Workshop                                    |                               | 
-| Milestone     |                                | 4 Present<br>xx EM1<br>xx EM2                 |                               |
-| Social Comm   |                                | 22 YEP                                        |                               |
-| Workplan      |                                | 4 SM Mid-Yr<br>1,6 LOD Mid-Yr<br>xx update PC |                               |
-| - Lauren      |                                | 18 LOD Workshop                               |                               |
-| YHS           | 23 Yeuk Fan                    |                                               |                               |
-| Learn/Huddle  | 25 Learn                       | 12 Huddle                                     | 2 Reflect<br>12 Huddle        |
-| On Course     | 17 AW<br>29-30 SC,IA           | 8 MK,KJ<br>11-13 SC,JC,MK<br>14 KJ            | 9-10 ST                       |
-| On Leave      | 14-21 JT<br>16 KM<br>18-28 SC  | 4 AW<br>7-8 BC<br>25 MK<br>27-30 KM           | 1-13 KM<br>3-11 AW<br>4-17 JC |
+| Project       |  Oct                           |  Nov                                             |  Dec                          |
+| :-----        | :---:                          | :---:                                            | :---:                         |
+| Health        | xx Screening                   |                                                  |                               |
+| IHIS          | ~~14 CSR~~                     |                                                  |                               |
+| Milestone     |                                | 4 Present<br>xx EM1<br>xx EM2                    |                               |
+| SC            |                                | 22 YEP                                           |                               |
+| Workplan      |                                | 1 Pre<br>4 SM Mid-Yr<br>6 Mid-Yr<br>xx update PC |                               |
+| - Dashboard   | 23 MD                          | 4 Workshop                                       |                               | 
+| - Lauren      |                                | 18 LOD Workshop                                  |                               |
+| YHS           | 23 YFan                        |                                                  |                               |
+| Visits        |                                |                                                  | 3/4 HK                        |
+| Huddle/Learn  | 25 Learn                       | 12 Huddle<br>29 Learn                            | 2 Reflect<br>12 Huddle        |
+| On Course     | 17 AW<br>29-30 SC,IA           | 8 MK,KJ<br>11-13 SC,JC,MK<br>14 KJ               | 9-10 ST                       |
+| On Leave      | 14-21 JT<br>16 KM<br>18-28 SC  | 4 AW<br>7-8 BC<br>25 MK<br>27-30 KM              | 1-13 KM<br>3-11 AW<br>4-17 JC |
 
 # Q1 2020
 
-| Project      |  Jan              |  Feb         |  Mar  |
-| :-----       | :---:             | :---:        | :---: |
-| GAH          | xx close          |              |       |
-| Health       | Survey            |              |       |
-| IMH          | 10 IMH<br>17 IMH  |              |       |
-| Radio        | 11 SGH<br>        |              |       |
-| Workplan     |                   |              |       |
-| HR Cycle     |                   | Goal Setting |       |
-| Learn/Huddle |                   |              |       |
-| On Course    |                   |              |       |
-| On Leave     |                   |              |       |
+| Project      |  Jan              |  Feb         |  Mar                |
+| :-----       | :---:             | :---:        | :---:               |
+| GAH          | xx close          |              |                     |
+| Health       | Survey            |              |                     |
+| IMH          | 10 IMH<br>17 IMH  |              |                     |
+| Radio        | 11 SGH<br>        |              |                     |
+| Workplan     |                   | 10 MD        | 10 PS<br>16 Bd      |
+| - Dashboard  | 7 PS              |              |                     |
+| HR Cycle     |                   | Goal Setting |                     |
+| Huddle/Learn |                   |              |                     |
+| On Course    |                   |              |                     |
+| On Leave     |                   |              |                     |
 
 # Q2 2020
 
@@ -38,7 +40,7 @@
 | :-----       | :---:             | :---: | :---:                      |
 | xxx          | xx<br>xxx         | xxx   |                            | 
 | HR Cycle     |                   |       | Mid-Yr Appraisal           |
-| Learn/Huddle |                   |       |                            |
+| Huddle/Learn |                   |       |                            |
 | On Course    |                   |       |                            |
 | On Leave     |                   |       | 15-19, 24 AW (tbc)         |
 
@@ -48,7 +50,7 @@
 | :-----       | :---:             | :---: | :---:        |
 | xxx          | xx<br>xxx         | xxx   |              | 
 | HR Cycle     |                   |       |              |
-| Learn/Huddle |                   |       |              |
+| Huddle/Learn |                   |       |              |
 | On Course    |                   |       |              |
 | On Leave     |                   |       | 7-11 AW      |
 
@@ -58,6 +60,6 @@
 | :-----       | :---:              | :---:     | :---: |
 | xxx          | xx<br>xxx          | xxx       |       | 
 | HR Cycle     | Year-End Appraisal |           |       |
-| Learn/Huddle |                    |           |       |
+| Huddle/Learn |                    |           |       |
 | On Course    |                    |           |       |
 | On Leave     |                    | 4 AW      |       |
