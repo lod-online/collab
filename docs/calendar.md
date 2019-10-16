@@ -32,7 +32,7 @@
 | HR Cycle     |                   | Goal Setting |                     |
 | Huddle/Learn |                   |              |                     |
 | On Course    |                   |              |                     |
-| On Leave     |                   |              |                     |
+| On Leave     | 6-17 JC           |              |                     |
 
 # Q2 2020
 
