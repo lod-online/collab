@@ -1,7 +1,7 @@
 ## Logging into Github
 
 1. Go to [Github Login](https://www.github.com/login/)
-2. Enter username and password
+2. Enter username and password (ask if you don't know)
 
 ## Accessing the Files
 
