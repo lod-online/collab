@@ -6,7 +6,7 @@
 
 | Project       |  Oct                           |  Nov                                             |  Dec                          |
 | :-----        | :---                           | :---                                             | :---                          |
-| Health        | xx Screening                   |                                                  |                               |
+| Health        | 31 Screening                   | 5 Screening                                      |                               |
 | IHIS          | ~~14 CSR~~                     |                                                  |                               |
 | Milestone     |                                | 4 Present<br>xx EM1<br>xx EM2                    |                               |
 | SC            |                                | 22 YEP                                           |                               |
