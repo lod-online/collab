@@ -17,7 +17,7 @@
 | Visits        |                           |                                                  | 3/4 HK                        |
 | Huddle/Learn  | 25 Learn                  | 12 Huddle<br>29 Learn                            | 2 Reflect<br>12 Huddle        |
 | On Course     | 17 AW<br>29-30 SC,IA      | 8 MK,KJ<br>11-13 SC,JC,MK<br>14 KJ               | 9-10 ST                       |
-| On Leave      | 14-21 JT<br>16 KM  		| 4 AW<br>7-8 BC<br>18-27 SC<br>25 MK<br>27-30 KM  | 1-13 KM<br>3-11 AW<br>4-17 JC |
+| On Leave      | 14-21 JT<br>16 KM  		    | 4 AW<br>7-8 BC<br>18-27 SC<br>25 MK<br>27-30 KM  | 1-13 KM<br>3-11 AW<br>4-17 JC<br>18-24 MK |
 
 # Q1 2020
 
