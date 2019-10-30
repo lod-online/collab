@@ -11,7 +11,7 @@
 | Milestone     |                           | 4 Present<br>xx EM1<br>xx EM2                    |                               |
 | SC            |                           | 22 YEP                                           |                               |
 | Workplan      | ~Mid-Year~                | 1 Pre-retreat<br>6 Mid-Yr<br>xx update PC        |                               |
-| - Dashboard   | 31 MD                     | 4 Workshop                                       |                               | 
+| - Dashboard   |                           | 1 MD<br>4 Workshop                               |                               | 
 | - Lauren      |                           | 18 LOD Workshop                                  |                               |
 | YHS           | ~23 YFan~                 |                                                  |                               |
 | Visits        |                           |                                                  | 3/4 HK                        |
