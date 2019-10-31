@@ -9,11 +9,14 @@
 | Health        | ~~31 Screening~~          | 5 Screening                                      |                               |
 | IHIS          | ~~14 CSR~~                |                                                  |                               |
 | Milestone     |                           | 4 Present<br>xx EM1<br>xx EM2                    |                               |
+| - Tools       |                           | x Paper                                          |                               |
 | SC            |                           | 22 YEP                                           |                               |
+| - nomination  |                           |                                                  |                               |
 | SHS GAH       |                           | 13 Debrief                                       |                               |
 | Workplan      | ~Mid-Year~                | 1 Pre-retreat<br>6 Mid-Yr<br>xx update PC        |                               |
 | - Dashboard   |                           | 1 MD<br>4 Workshop                               |                               | 
 | - Lauren      |                           | 18 LOD Workshop                                  |                               |
+| Vanguard      | Interviews                | Interviews<br>Birthdays with Trybe               |                               |
 | YHS           | ~~23 YFan~~               |                                                  |                               |
 | Visits        |                           |                                                  | 3/4 HK                        |
 | Huddle/Learn  | ~~25 Learn~~              | 12 Huddle<br>29 Learn                            | 2 Reflect<br>12 Huddle        |
@@ -24,9 +27,11 @@
 
 | Project      |  Jan                      |  Feb                     |  Mar                      |
 | :-----       | :---                      | :---                     | :---                      |
+| AIC          | Present findings?         |                          |                           |
 | Health       | xx Survey                 |                          |                           |
 | IMH          | 10 IMH<br>17 IMH          |                          |                           |
-| Radio        | 11 SGH<br>                |                          |                           |
+| Radiology    | 11 SGH<br>                |                          |                           |
+| Vanguard     | Present findings?         |                          |                           |
 | Workplan     |                           | 10 MD                    | 10 PS<br>16 Bd            |
 | - Dashboard  | 7 PS                      |                          |                           |
 | HR Cycle     |                           | Goal Setting             |                           |
