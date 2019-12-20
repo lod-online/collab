@@ -2,27 +2,6 @@
 <meta http-equiv="Pragma" content="no-cache"/>
 <meta http-equiv="Expires" content="0"/>
 
-# Q4 2019
-
-| Project       |  Oct                      |  Nov                                             |  Dec                          |
-| :-----        | :---                      | :---                                             | :---                          |
-| Health        | ~~31 Screening            | 5 Screening~~                                    |                               |
-| IHIS          | ~~14 CSR~~                |                                                  |                               |
-| Milestone     |                           | x Present<br>xx EM1<br>xx EM2                    |                               |
-| - Tools       |                           | x Paper                                          |                               |
-| SC            |                           | 22 YEP                                           |                               |
-| - nomination  |                           |                                                  |                               |
-| SHS GAH       |                           | 13 Debrief                                       |                               |
-| Workplan      | ~Mid-Year~                | ~~Pre-retreat<br>6 Mid-Yr~~<br>xx update PC      |                               |
-| - Dashboard   |                           | x MD<br>x Workshop                               |                               | 
-| - Lauren      |                           | 18 LOD Workshop                                  |                               |
-| Vanguard      | Interviews                | ~~Interviews<br>Birthdays with Trybe~~           |                               |
-| YHS           | ~~23 YFan~~               |                                                  |                               |
-| Visits        |                           |                                                  | x HK                          |
-| Huddle/Learn  | ~~25 Learn~~              | 12 Huddle<br>29 Learn                            | 2 Reflect<br>12 Huddle        |
-| On Course     | ~~17 AW<br>29-30 SC,IA~~  | 8 MK,KJ<br>11-13 SC,JC,MK<br>14 KJ               | 9-10 ST                       |
-| On Leave      | ~~14-21 JT<br>16 KM~~  		| 4 AW<br>7-8 BC<br>18-27 SC<br>25 MK<br>27-30 KM  | 1-13 KM<br>3-11 AW<br>4-17 JC<br>18-24 MK |
-
 # Q1 2020
 
 | Project      |  Jan                      |  Feb                     |  Mar                      |
