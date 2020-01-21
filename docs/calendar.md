@@ -14,7 +14,7 @@ Updated 21 Jan
 | - Pulse      | ~~20 Present~~            |                                        |                           |
 | SC           | Appt Letter               | 10 Intro<br>17 Close<br>24 Retreat     | 23 MD-HOD                 |
 | - Events     | 29 Lohei                  | 3 Lion                                 |                           |
-| - Health     | ~~Survey~~                |                                        |                           |
+| - Health     | ~~Survey~~                | Workshops                              |                           |
 | Engage       | ~~15 Run #1~~             | 19 Run #2<br>xx MEP 1<br>              | xx MEP 2                  |
 | CSR          | 29 Lohei                  |                                        |                           |
 | AIC          | Present findings?         |                                        |                           |
@@ -34,6 +34,7 @@ Updated 21 Jan
 | HR Cycle     |                           |                                        | Mid-Yr Appraisal           |
 | Huddle/Learn | 7 Huddle<br>24 Learn      | 12 Huddle<br>29 Learn                  | 9 Huddle<br>26 Learn       |
 | Events       | 7-8 HITEC                 |                                        |                            |
+| MOH          | Townhall                  | 29 WPS                                 |                            |                      
 | On Course    |                           |                                        |                            |
 | On Leave     |                           |                                        | 15-19, 24 AW (tbc)         |
 
@@ -42,6 +43,7 @@ Updated 21 Jan
 | Project      |  Jul                       |  Aug                                  |  Sep                       |
 | :-----       | :---                       | :---                                  | :---                       |
 | SC           |                            | Org event                             |                            |
+| MOH          |                            |                                       | 25 Staff Conf              |
 | HR Cycle     |                            |                                       |                            |
 | Huddle/Learn | 14 Huddle<br>30 Learn      |  18 Huddle<br>28 Learn                | 8 Huddle<br>25 Learn       |
 | On Course    |                            |                                       |                            |
