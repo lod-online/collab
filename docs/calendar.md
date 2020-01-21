@@ -6,13 +6,16 @@
 
 | Project      |  Jan                      |  Feb                     |  Mar                      |
 | :-----       | :---                      | :---                     | :---                      |
-| AIC          | Present findings?         |                          |                           |
-| Health       | xx Survey                 |                          |                           |
-| IMH          | 10 IMH<br>17 IMH          |                          |                           |
-| Radiology    | 11 SGH<br>                |                          |                           |
+| Workplan     | ~~20 Mid-Year~~           | 13 MD<br>28 PS           | 16 Bd                     |
+| - Dashboard  |                           | xx Workshop              |                           |
+| SC           | Appt Letter               | Intro<br>Retreat         | Closing                   |
+| - Events     | 29 Lohei                  | 3 Lion                   |                           |
+| - Health     | ~~Survey~~                |                          |                           |
+| CSR          | 29 Lohei                  |                          |                           |
 | Vanguard     | Present findings?         |                          |                           |
-| Workplan     |                           | 10 MD                    | 10 PS<br>16 Bd            |
-| - Dashboard  | 7 PS                      |                          |                           |
+| AIC          | Present findings?         |                          |                           |
+| IMH          | ~~10 IMH<br>17 IMH~~      |                          |                           |
+| Radiography  | ~~11 SGH~~                |                          |                           |
 | HR Cycle     |                           | Goal Setting             |                           |
 | Huddle/Learn | 4 Huddle<br>              | 11 Huddle<br>28 Learn    | 10 Huddle<br>27 Learn     |
 | On Course    |                           |                          |                           |
@@ -22,6 +25,8 @@
 
 | Project      |  Apr                      |  May                     |  Jun                       |
 | :-----       | :---                      | :---                     | :---                       |
+| SC           | Workplan                  |                          |                            |
+| - Events     |                           |                          | Family Day                 |
 | HR Cycle     |                           |                          | Mid-Yr Appraisal           |
 | Huddle/Learn | 7 Huddle<br>24 Learn      | 12 Huddle<br>29 Learn    | 9 Huddle<br>26 Learn       |
 | On Course    |                           |                          |                            |
