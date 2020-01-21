@@ -36,7 +36,7 @@ Updated 21 Jan
 | Events       | 7-8 HITEC                 |                                        |                            |
 | MOH          | Townhall                  | 29 WPS                                 |                            |                      
 | On Course    |                           |                                        |                            |
-| On Leave     |                           |                                        | 15-19, 24 AW (tbc)         |
+| On Leave     | 30 JT                     | 1-7 JT                                 | 15-19,24 AW                |
 
 # Q3 2020
 
