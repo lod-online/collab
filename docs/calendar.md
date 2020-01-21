@@ -8,6 +8,7 @@
 | :-----       | :---                      | :---                     | :---                      |
 | Workplan     | ~~20 Mid-Year~~           | 13 MD<br>28 PS           | 16 Bd                     |
 | - Dashboard  |                           | xx Workshop              |                           |
+| - Pulse      | ~~20 Present~~            |                          |                           |
 | SC           | Appt Letter               | Intro<br>Retreat         | Closing                   |
 | - Events     | 29 Lohei                  | 3 Lion                   |                           |
 | - Health     | ~~Survey~~                |                          |                           |
