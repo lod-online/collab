@@ -19,7 +19,7 @@ Updated 22 Jan
 | CSR          | 29 Lohei                  |                                        |                           |
 | AIC          | Present findings?         |                                        |                           |
 | IMH          | ~~10 IMH<br>17 IMH~~      |                                        |                           |
-| Radiography  | ~~11 SGH~~                |                                        |                           |
+| Radiography  | ~~11 SGH~~                | Briefback                              |                           |
 | Vanguard     | Presented findings        | LD workshops                           |                           |
 | HR Cycle     |                           |                                        | 1 Goal Setting                          |
 | Huddle/Learn | ~~4 Huddle~~              | 11 Huddle<br>28 Learn                  | 10 Huddle<br>27 Learn     |
