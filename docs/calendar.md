@@ -8,7 +8,7 @@ Updated 22 Jan
 
 | Project      |  Jan                      |  Feb                                   |  Mar                      |
 | :-----       | :---                      | :---                                   | :---                      |
-| Workplan     | ~~20 Mid-Year~~           | 13 MD<br>28 PS                         | 13 Bd                     |
+| Workplan     | ~~20 Mid-Year~~           | 13/19 MD<br>28 PS                         | 13 Bd                     |
 | - Paper      |                           | 21 MD<br>28 PS                         | 6 Bd circulate            |
 | - Dashboard  |                           | xx Workshop                            |                           |
 | - Pulse      | ~~20 Present~~            |                                        |                           |
