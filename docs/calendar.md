@@ -21,7 +21,7 @@ Updated 22 Jan
 | IMH          | ~~10 IMH<br>17 IMH~~      |                                        |                           |
 | Radiography  | ~~11 SGH~~                |                                        |                           |
 | Vanguard     | Present findings?         |                                        |                           |
-| HR Cycle     |                           | Goal Setting                           |                           |
+| HR Cycle     |                           |                         | 1 Goal Setting                          |
 | Huddle/Learn | ~~4 Huddle~~              | 11 Huddle<br>28 Learn                  | 10 Huddle<br>27 Learn     |
 | On Course    |                           |                                        |                           |
 | On Leave     | 6-17 JC                   |                                        | 2-12 Iz                   |
