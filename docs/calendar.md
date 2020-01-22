@@ -15,7 +15,7 @@ Updated 21 Jan
 | SC           | Appt Letter               | 10 Intro<br>17 Close<br>24 Retreat     | 23 MD-HOD                 |
 | - Events     | 29 Lohei                  | 3 Lion                                 |                           |
 | - Health     | ~~Survey~~                | Workshops                              |                           |
-| Engage       | ~~15 Run #1~~             | 19 Run #2<br>xx MEP 1<br>              | 18 Ind #3<br>xx MEP 2                  |
+| Engage       | ~~15 Induct #1~~             | 19 Induct #2<br>xx MEP 1<br>              | 18 Induct #3<br>xx MEP 2                  |
 | CSR          | 29 Lohei                  |                                        |                           |
 | AIC          | Present findings?         |                                        |                           |
 | IMH          | ~~10 IMH<br>17 IMH~~      |                                        |                           |
