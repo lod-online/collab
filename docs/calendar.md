@@ -12,7 +12,7 @@ Updated 21 Jan
 | - Paper      |                           | 21 MD<br>28 PS                         | 6 Bd circulate            |
 | - Dashboard  |                           | xx Workshop                            |                           |
 | - Pulse      | ~~20 Present~~            |                                        |                           |
-| SC           | Appt Letter               | 10 Intro<br>17 Close<br>24 Retreat     | 23 MD-HOD                 |
+| SC           | Letter                    | 10 Intro<br>17 Close<br>24 Retreat     | 23 MD-HOD                 |
 | - Events     | 29 Lohei                  | 3 Lion                                 |                           |
 | - Health     | ~~Survey~~                | Workshops                              |                           |
 | Engage       | ~~15 Induct #1~~             | 19 Induct #2<br>xx MEP 1<br>              | 18 Induct #3<br>xx MEP 2                  |
