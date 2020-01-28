@@ -10,7 +10,7 @@ Updated 22 Jan
 | :-----       | :---                      | :---                                   | :---                      
 | Workplan     | ~~20 Mid-Year~~           | 19 MD<br>28 PS                         | 19 Bd                     
 | - Paper      |                           | 21 MD<br>28 PS                         | 6 Bd circulate            
-| - Dashboard  |                           | xx Workshop                            |                           
+| - Dashboard  |                           |                                        | 2 Alignment                          
 | - Pulse      | ~~20 Present~~            |                                        |                           
 | SC           | Letter                    | 10 Intro<br>17 Close<br>24 Retreat     | 23 MD-HOD                 
 | - Events     | 29 Lohei                  | 3 Lion                                 |                           
